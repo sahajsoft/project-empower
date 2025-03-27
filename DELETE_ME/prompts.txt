@@ -1,0 +1,5 @@
+/drop
+/read-only prompts/01-course-plan.md
+/read-only prompts/02-unit-plan.md
+/read-only prompts/03-assignment-creation.md
+/read-only prompts/README.md

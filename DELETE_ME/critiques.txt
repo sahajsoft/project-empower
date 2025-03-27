@@ -1,0 +1,6 @@
+/drop
+/read-only critiques/gft.md
+/read-only critiques/gp.md
+/read-only critiques/grok.md
+/read-only critiques/r1.md
+/read-only critiques/sonnet.md
